@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# portfolio on progress - MVP 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
