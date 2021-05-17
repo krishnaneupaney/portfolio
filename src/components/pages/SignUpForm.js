@@ -1,5 +1,5 @@
 import React from "react";
-import FlatButton from "material-ui/FlatButton";
+import { FlatButton } from "material-ui";
 import RaisedButton from "material-ui/RaisedButton";
 import TextField from "material-ui/TextField";
 import PasswordStr from "./PasswordStr";

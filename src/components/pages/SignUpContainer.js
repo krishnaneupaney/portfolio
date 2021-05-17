@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import SignUpForm from "./SignUpForm.js";
+import SignUpForm from "./SignUpForm";
+
 const axios = require("axios");
 const FormValidators = require("./validate");
 const validateSignUpForm = FormValidators.validateSignUpForm;

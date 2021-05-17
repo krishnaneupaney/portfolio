@@ -1,14 +1,14 @@
 import React from "react";
-import Header from "components/Header";
+// import Header from "components/Header";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import useFileDownloader from "hooks/useFileDownloader";
-import ExternalInfo from "components/ExternalInfo";
+import useFileDownloader from "../../hooks/useFileDownloader";
+// import ExternalInfo from "components/ExternalInfo";
 
 const files = [
   {
     name: "Photo 1",
     thumb:
-      "https://images.unsplash.com/photo-1604263439201-171fb8c0fddc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=427&q=80 427w",
+      "https://media-exp1.licdn.com/dms/image/C5603AQGXUOea2E_9sQ/profile-displayphoto-shrink_100_100/0/1517570676654?e=1625702400&v=beta&t=VRM8eYt88AIfnPbeI9Buvhq_ZMk9hpwqwplL-PV_5m0",
     file:
       "https://images.unsplash.com/photo-1604263439201-171fb8c0fddc?rnd=" +
       Math.random(),
@@ -41,9 +41,9 @@ const FileDownloader = () => {
 
   return (
     <>
-      <Header title="File downloader with progress bar" />
+      {/* <Header title="File downloader with progress bar" />
 
-      <ExternalInfo page="fileDownloader" />
+      <ExternalInfo page="fileDownloader" /> */}
 
       <div className="row">
         <div className="col text-center">
