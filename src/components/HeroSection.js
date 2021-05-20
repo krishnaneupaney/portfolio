@@ -16,12 +16,12 @@ function HeroSection() {
                     buttonSize='btn--large'>
                        Take ME TO ABOUT ME
                 </Button>
-                <Button
+                {/* <Button
                     className='btns'
                     buttonStyle='btn--primary'
                     buttonSize='btn--large'>
                        WATCH MY INTRO <i className='far fa-play-circle' />
-                </Button>
+                </Button> */}
             </div>      
         </div>
     )

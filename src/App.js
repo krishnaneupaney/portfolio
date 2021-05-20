@@ -3,7 +3,6 @@ import './App.css';
 import Navbar from './components/Navbar';
 import {BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './components/pages/Home';
-import Services from './components/pages/Services';
 import SignUp from './components/pages/SignUpForm';
 import Products from './components/pages/Products';
 import SignUpContainer from "./components/pages/SignUpContainer";
@@ -11,6 +10,8 @@ import MuiThemeProvider from "material-ui/styles/MuiThemeProvider";
 import FileDownloader from "./components/pages/FileDownloader";
 import Downloader from './components/pages/Downloader';
 import Header from './components/pages/Header';
+import Contact from './components/pages/Contact';
+import About from './components/pages/About';
 
 
 
@@ -21,10 +22,10 @@ function App() {
     <Navbar />
     <Switch>
       <Route path='/' exact component={Home} />
-      <Route path='/services' component={Services} />
+      <Route path='/about' component={About} />
       <Route path='/products' component={Products} />
-      <Route path='/signup' component={SignUp} />
-      <Route path='/FileDownloader' component={FileDownloader} />
+      <Route path='/contact' component={Contact} />
+      <Route path='/resume' component={FileDownloader} />
         <MuiThemeProvider>
         <SignUpContainer />
         </MuiThemeProvider>

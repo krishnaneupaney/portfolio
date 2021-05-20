@@ -5,42 +5,41 @@ import './Cards.css';
 function Cards() {
     return (
         <div className='cards'>
-            <h1>Check out my blogs</h1>
+            <h1>Check out my projects</h1>
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
-                        <CardItem 
-                        src="images/img-9.jpg"
-                        text="explore"
-                        label="Adventure"
-                        path='/services'
-                        />
-                         <CardItem
-              src='images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
-              path='/services'
-            />
-          </ul>
-          <ul className='cards__items'>
-            <CardItem
-              src='/https://drive.google.com/file/d/1Do2gJZs9mm4JXruMP4bZmnKn1avLUcF7/view?usp=sharing'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path='/services'
-            />
-            <CardItem
-              src='images/img-4.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
+                                    <CardItem
+              src='images/firstgame.jpg'
+              text='Experience the game to see if you qualify for military'
               label='Adventure'
               path='/products'
             />
+            <a href="https://krishnaneupaney.github.io/project1/">Link</a>
+            <CardItem 
+                        src="images/axcessapp.jpg"
+                        text="project"
+                        label="Adventure"
+                        path='/about'
+                        />
+                        <a href="https://eloquent-leakey-ec6c37.netlify.app/">Link</a>
+                         <CardItem
+              src='images/capstone.jpg'
+              text='Capstone Project for General Assembly'
+              label='Luxury'
+              path='/about'
+            />
+          </ul>
+          <a href="https://seircapstoneapp.herokuapp.com/">Link</a>
+          <ul className='cards__items'>
+
             <CardItem
-              src='images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              src='images/groupproject.jpg'
+              text='Group project'
               label='Adrenaline'
               path='/sign-up'
             />
+            <a href="https://travlr-group.netlify.app/">Link</a>
                     </ul>
                 </div>
             </div>         
