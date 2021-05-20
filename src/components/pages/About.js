@@ -6,8 +6,7 @@ function About() {
     return(
         <>
             <div className='studently'>
-                <h1>Hello there:</h1>
-                <h2>Krishna Neupaney here</h2>
+                <h1>OHH Hello there! Krishna Here! 🤓</h1>
                 <br />
                 <h3>I'm a developer learning on progress and student at General Assembly. I love solving problems with code and building applications in JavaScript. When I'm not coding or learning, you can find me on long run or on my bed taking naps. Thanks for visiting!</h3>
 
