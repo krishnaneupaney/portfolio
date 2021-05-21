@@ -53,3 +53,11 @@ html, body, #root {
   background-color: #4c91ad;
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
+.card-body{
+  text-align: center;
+  font-size: large;
+}
+.form-group{
+  color: white;
+  font-size: larger;
+}

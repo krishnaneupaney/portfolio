@@ -11,32 +11,33 @@ function Cards() {
                     <ul className="cards__items">
                                     <CardItem
               src='images/firstgame.jpg'
-              text='Experience the game to see if you qualify for military'
+              text='Experience my first game to see if you qualify for military'
               label='Adventure'
               path='/products'
             />
             <a href="https://krishnaneupaney.github.io/project1/">Link</a>
             <CardItem 
                         src="images/axcessapp.jpg"
-                        text="project"
-                        label="Adventure"
+                        text="This is my second project where I use Shopify API to get product data"
+                        label="ShopWhileYouVisit"
                         path='/about'
                         />
                         <a href="https://eloquent-leakey-ec6c37.netlify.app/">Link</a>
                          <CardItem
               src='images/capstone.jpg'
-              text='Capstone Project for General Assembly'
-              label='Luxury'
+              text='Capstone Project'
+              label='Extreme Adventure'
               path='/about'
             />
           </ul>
           <a href="https://seircapstoneapp.herokuapp.com/">Link</a>
           <ul className='cards__items'>
-
+              
             <CardItem
               src='images/groupproject.jpg'
+              href='https://travlr-group.netlify.app/'
               text='Group project'
-              label='Adrenaline'
+              label='Adventure'
               path='/sign-up'
             />
             <a href="https://travlr-group.netlify.app/">Link</a>

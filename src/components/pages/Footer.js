@@ -12,7 +12,7 @@ function Footer() {
                         <input 
                         type="email"
                         name='email'
-                        placeholder='I want you for my million dollar job'
+                        placeholder='I want to hire you '
                         className='footer-input' />
                         <Button buttonStyle='btn--outline'>Hire Me</Button>
                     </form>

@@ -7,7 +7,6 @@ video {
   }
   
   .hero-container {
-    background: url('https://www.herzing.edu/sites/default/files/styles/fp_960_640/public/2020-09/how-to-become-software-engineer.jpg?h=b3660f0d&itok=_i5XuWow') center center/cover no-repeat;
     height: 100vh;
     width: 100%;
     display: flex;

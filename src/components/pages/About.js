@@ -26,6 +26,7 @@ function About() {
             <h2>Connect With me: </h2>
             <br />
             <p align="left">
+                
             <a href="https://github.com/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="krishnaneupaney" height="30" width="40" /></a>
 <a href="https://codepen.io/krishna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="esin87" height="30" width="40" /></a>
 <a href="https://dev.to/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="krishnaneupaney" height="30" width="40" /></a>
@@ -34,8 +35,9 @@ function About() {
 <a href="https://instagram.com/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krishnaneupaney" height="30" width="40" /></a>
 </p>
 <br />
-
-<a href='/contact'>Contact Me</a>
+<h3>Email: krishnaneupaney000@gmail.com</h3>
+<br />
+<a href='/contact'>Contact Me Directly</a>
 
         </>
     )
