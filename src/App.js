@@ -12,6 +12,7 @@ import Downloader from './components/pages/Downloader';
 import Header from './components/pages/Header';
 import Contact from './components/pages/Contact';
 import About from './components/pages/About';
+import Data from './components/pages/data'
 
 
 
@@ -26,6 +27,7 @@ function App() {
       {/* <Route path='/skills' component={Skills} /> */}
       <Route path='/contact' component={Contact} />
       <Route path='/resume' component={FileDownloader} />
+      {/* <Route path='/resume' component={Data} /> */}
         <MuiThemeProvider>
         <SignUpContainer />
         </MuiThemeProvider>

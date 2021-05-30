@@ -8,9 +8,17 @@ function About() {
             <div className='studently'>
                 <h1>OHH Hello there! Krishna Here! 🤓</h1>
                 <br />
-                <h3>I'm a developer learning on progress and student at General Assembly. I love solving problems with code and building applications in JavaScript. When I'm not coding or learning, you can find me on long run or on my bed taking naps. Thanks for visiting!</h3>
-
+                <h3>I'm a software developer learning on progress and recent grads of FullStack Software Engineering Immerse at General Assembly. I love solving problems with code and building applications in various Languages. When I'm not coding or learning, you can find me on long run or reading books. 
+                </h3>
+                <br />
+                <h3>Some of my favorites books are:  The Law of Human Nature by Robert Green.
+                    Benjamin Franklin by Walter Issacson
+                    The Power of Now by Eckhart Tolle
+                
+                    
+                </h3>
             </div>
+            <br />
             <h2>Languages and Tools I work with </h2>
             <br />
 <div>
