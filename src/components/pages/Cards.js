@@ -25,7 +25,7 @@ function Cards() {
                         <a href="https://competent-pasteur-651ea1.netlify.app/">Link</a>
                          <CardItem
               src='images/capstonee.png'
-              text='Simple marketplace website to browse other fav books as well as to add your own'
+              text='Marketplace website to browse other fav books as well as to add your own'
               label='Extreme Adventure'
               path='/about'
             />
