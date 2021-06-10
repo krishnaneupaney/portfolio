@@ -2,6 +2,7 @@ import React from "react";
 // import Header from "components/Header";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import useFileDownloader from "../../hooks/useFileDownloader";
+import { Button } from "react-bootstrap";
 // import ExternalInfo from "components/ExternalInfo";
 
 // const files = [
@@ -69,10 +70,9 @@ const FileDownloader = () => {
   return(
   
     <div className="Resume">
-    <h1>My Resume</h1>
-   <img src="images/resume1.jpeg" />
-   <img src="images/resume.2.jpeg" />
-      
+    <h1>Click Below for Resume</h1>
+  
+      <a className="Awesome" href="https://docs.google.com/document/d/1GLD-BU4BqJTTdcy5lOLr91l9d-r6cSh1lz174BIO6LU/edit?usp=sharing">ClickMe</a>
     
     
   </div>

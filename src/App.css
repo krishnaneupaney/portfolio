@@ -67,4 +67,9 @@ html, body, #root {
 
   .Resume{
     text-align: center;
+    font-size: large;
+  }
+
+  .Awesome {
+    font-size: 49px;
   }

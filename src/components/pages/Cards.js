@@ -22,21 +22,21 @@ function Cards() {
                         label="ShopWhileYouVisit"
                         path='/about'
                         />
-                        <a href="https://eloquent-leakey-ec6c37.netlify.app/">Link</a>
+                        <a href="https://competent-pasteur-651ea1.netlify.app/">Link</a>
                          <CardItem
-              src='images/capstone.jpg'
-              text='Capstone Project'
+              src='images/capstonee.png'
+              text='Simple marketplace website to browse other fav books as well as to add your own'
               label='Extreme Adventure'
               path='/about'
             />
           </ul>
-          <a href="https://seircapstoneapp.herokuapp.com/">Link</a>
+          <a href="https://vibrant-saha-8aa031.netlify.app/">Link</a>
           <ul className='cards__items'>
               
             <CardItem
               src='images/groupproject.jpg'
               href='https://travlr-group.netlify.app/'
-              text='Group project'
+              text='Group project - We build full stack app for local users to find resturants and bars near them.'
               label='Adventure'
               path='/sign-up'
             />
