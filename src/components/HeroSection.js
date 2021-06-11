@@ -7,7 +7,7 @@ function HeroSection() {
     return (
         <div className='hero-container'>
             <video src='/videos/video-2.mp4' autoPlay loop muted />
-            <h1>Welcome To My PortFolio</h1> 
+            <h1>Welcome To My Portfolio</h1> 
             <p>Check out my work here and</p>  
             <p>feel free to contact me with job offers.</p> 
             <p>Most of the time, I accept it</p> 

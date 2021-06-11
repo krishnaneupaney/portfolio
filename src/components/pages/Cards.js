@@ -24,7 +24,7 @@ function Cards() {
                         />
                         <a href="https://competent-pasteur-651ea1.netlify.app/">Link</a>
                          <CardItem
-              src='images/capstonee.png'
+              src='images/bookappp.jpeg'
               text='Marketplace website to browse other fav books as well as to add your own'
               label='Extreme Adventure'
               path='/about'
@@ -36,7 +36,7 @@ function Cards() {
             <CardItem
               src='images/groupproject.jpg'
               href='https://travlr-group.netlify.app/'
-              text='Group project - We build full stack app for local users to find resturants and bars near them.'
+              text='Group project - My team build full stack app for local users to find resturants and bars nearby using maps.'
               label='Adventure'
               path='/sign-up'
             />
