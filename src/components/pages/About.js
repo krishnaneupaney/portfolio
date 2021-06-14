@@ -6,9 +6,14 @@ function About() {
     return(
         <>
             <div className='studently'>
-                <h1>OHH Hello there! Krishna Here! 🤓</h1>
+                <h1> Hello there! Krishna Here! 🤓</h1>
                 <br />
-                <h3>I'm a software developer learning on progress and recent grads of FullStack Software Engineering Immerse at General Assembly. I love solving problems with code and building applications in various Languages. When I'm not coding or learning, you can find me on long run or reading books. 
+                <h3>I'm a Full-Stack Software Developer with keen interest on design and architecture. 
+                    I love solving problems with code and building applications in various Languages  
+                    using different technologies.
+                    <br />
+                    <br />
+                    When I'm not coding or learning, you can find me on long run or reading books. 
                 </h3>
                 <br />
                 <h3>Some of my favorites books are:  The Law of Human Nature by Robert Green.
@@ -17,11 +22,11 @@ function About() {
                 
                     
                 </h3>
-            </div>
+    
             <br />
             <h2>Languages and Tools I work with </h2>
             <br />
-<div>
+
                 <a href="https://python.org" target="_blank"><img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="python" width="40" height="40" /></a>
                 <a href="https://javascript.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> </a>
                 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -34,27 +39,31 @@ function About() {
                 <a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
                 <a href="http://mongodb.com" targer="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40" /></a>
 
-</div>
+
             <br />
             <br />
             <h2>Connect With me: </h2>
             <br />
             <p align="left">
-                
-            <a href="https://github.com/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="krishnaneupaney" height="30" width="40" /></a>
+        
+<div className="lmao">
+<a href="https://github.com/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="krishnaneupaney" height="30" width="40" /></a>
 <a href="https://codepen.io/krishna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="esin87" height="30" width="40" /></a>
 <a href="https://dev.to/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="krishnaneupaney" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krishnaneupaney" height="30" width="40" /></a>
 <a href="https://codesandbox.com/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="krishnaneupaney" height="30" width="40" /></a>
 <a href="https://instagram.com/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krishnaneupaney" height="30" width="40" /></a>
-
+</div>
 </p>
 <br />
 <h3>Email: krishnaneupaney000@gmail.com</h3>
 <br />
 <a href='/contact'>Contact Me Directly</a>
 
+    </div>
         </>
+        
+    
     )
 }
 
