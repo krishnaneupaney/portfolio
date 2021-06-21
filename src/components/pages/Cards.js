@@ -30,7 +30,7 @@ function Cards() {
               path='/about'
             />
           </ul>
-          <a href="https://optimistic-nightingale-ce28bc.netlify.app/posts/">Link</a>
+          <a href="https://axcessbookreview.netlify.app/posts/">Link</a>
           <ul className='cards__items'>
               
             <CardItem

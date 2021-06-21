@@ -6,7 +6,7 @@ function CardItem(props) {
     return (
        <>
        <li className="cards__item">
-           <Link className='cards__item__link' href='https://eloquent-leakey-ec6c37.netlify.app/'>
+           <Link className='cards__item__link' href='https://axcessbookreview.netlify.app/posts'>
                <figure className="cards__item__pic-wrap" data-category={props.label}
                >
                   <img 
