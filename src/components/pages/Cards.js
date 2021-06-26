@@ -6,7 +6,8 @@ function Cards() {
     return (
         <div className='cards'>
             <h1>Check out my projects</h1>
-            <div className="cards__container">
+            <div className="cards__container" >
+              
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                                     <CardItem
@@ -15,6 +16,14 @@ function Cards() {
               label='Adventure'
               path='/products'
             />
+            <CardItem
+              src='images/algo.png'
+              Link="/https://krishnaneupaney.github.io/project1/"
+              text=' My first algorithm based app where I used Dijkstra algo which gurantee sortest path'
+              label='Adventure'
+              path='/products'
+            />
+            
             <a href="https://krishnaneupaney.github.io/project1/">Link</a>
             <CardItem 
                         src="images/axcessapp.jpg"
@@ -24,7 +33,7 @@ function Cards() {
                         />
                         <a href="https://competent-pasteur-651ea1.netlify.app/">Link</a>
                          <CardItem
-              src='images/bookapa.png'
+              src='images/axcessbookreview.jpg'
               text='Marketplace website to browse other fav books as well as to add your own'
               label='Extreme Adventure'
               path='/about'

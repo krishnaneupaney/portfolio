@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 import { Button } from './Button';
+import ContactForm from './pages/Contact';
 
 function Navbar() {
     const [click, setClick] = useState(false);
@@ -53,13 +54,13 @@ function Navbar() {
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/contact' className='nav-links-mobile' onClick={closeMobileMenu}>
+                            <Link to='/contact' className='nav-links-mobile' onClick={ContactForm}>
                                Contact Me
                             </Link>
                         </li>
                         
                     </ul>
-                    {button && <Button buttonStyle='btn--outline'>Contact Me</Button>}
+                    {button && <Button buttonStyle='btn--outline' Link to="/contact">Contact Me</Button>}
                     
                 </div>
             </nav>

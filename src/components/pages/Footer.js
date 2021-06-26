@@ -14,7 +14,7 @@ function Footer() {
                         name='email'
                         placeholder='I want to hire you '
                         className='footer-input' />
-                        <Button buttonStyle='btn--outline'>Hire Me</Button>
+                        <Button buttonStyle='btn--outline' Link to="/contact">Hire Me</Button>
                     </form>
                 </div>
             </section>
