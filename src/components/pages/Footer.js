@@ -56,7 +56,7 @@ function Footer() {
           <div class='social-icons'>
             <a href="https://facebook/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="krishnaneupaney" height="30" width="40" /></a>
             <a href="https://instagram.com/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krishnaneupaney" height="30" width="40" /></a>
-            <a href="https://linkedin.com/in/krishnaneupaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krishnaneupaney" height="30" width="40" /></a>
+            <a href="https://www.linkedin.com/in/krishna-neupaney-8b560962/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krishnaneupaney" height="30" width="40" /></a>
           </div>
         </div>
       </section>

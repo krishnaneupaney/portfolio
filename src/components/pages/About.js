@@ -58,7 +58,8 @@ function About() {
 <br />
 <h3>Email: krishnaneupaney000@gmail.com</h3>
 <br />
-<a href='/contact'>Contact Me Directly</a>
+<div><a href='/contact'>Contact Me Directly</a></div>
+
 
     </div>
         </>
