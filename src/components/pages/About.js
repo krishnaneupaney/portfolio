@@ -9,8 +9,8 @@ function About() {
                 <h1> Hello there! Krishna Here! 🤓</h1>
                 <br />
                 <h3>I'm a Full-Stack Software Developer with keen interest on design and architecture. 
-                    I love solving problems with code and building applications in various Languages  
-                    using different technologies.
+                    I love solving problems with code and building applications that solves problems in the society in various Languages  
+                   using different technologies.
                     <br />
                     <br />
                     When I'm not coding or learning, you can find me on long run or reading books. 
