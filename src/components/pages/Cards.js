@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import CardItem from './CardItem';
 import './Cards.css';
 
@@ -16,12 +17,14 @@ function Cards() {
               label='Adventure'
               path='/products'
             />
-            <CardItem
+            
+            <Link to="/https://krishnaneupaney.github.io/project1/" 
+            
               src='images/algo.png'
-              Link="/https://krishnaneupaney.github.io/project1/"
+              
               text=' My first algorithm based app where I used Dijkstra algo which gurantee sortest path'
               label='Adventure'
-              path='/products'
+            
             />
             
             <a href="https://krishnaneupaney.github.io/project1/">Link</a>
@@ -31,7 +34,7 @@ function Cards() {
                         label="ShopWhileYouVisit"
                         path='/about'
                         />
-                        <a href="https://competent-pasteur-651ea1.netlify.app/">Link</a>
+                        <a href="https://axcessbookreview.netlify.app/">Link</a>
                          <CardItem
               src='images/axcessbookreview.jpg'
               text='Marketplace website to browse other fav books as well as to add your own'
