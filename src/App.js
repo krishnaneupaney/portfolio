@@ -26,8 +26,6 @@ function App() {
       <Route path='/about' component={About} />
       {/* <Route path='/skills' component={Skills} /> */}
       <Route path='/contact' component={Contact} />
-      <Route path='/resume' component={FileDownloader} />
-      {/* <Route path='/resume' component={Data} /> */}
         <MuiThemeProvider>
         <SignUpContainer />
         </MuiThemeProvider>
